@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on CHFR&#39;s blog</title>
+    <link>https://mmaker.moe/~chfr/posts/</link>
+    <description>Recent content in Posts on CHFR&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2023 21:38:37 +0400</lastBuildDate><atom:link href="https://mmaker.moe/~chfr/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>https://mmaker.moe/~chfr/posts/hello-world/</link>
+      <pubDate>Thu, 02 Mar 2023 21:38:37 +0400</pubDate>
+      
+      <guid>https://mmaker.moe/~chfr/posts/hello-world/</guid>
+      <description>Introduction For maybe the last two years of so, I&amp;rsquo;ve always felt a bit bad that I&amp;rsquo;ve got this little parcel of server generously gifted to me, and yet haven&amp;rsquo;t done anything with it.
+The idea of making a personal blog has been on my mind for a long time (pretty much ever since I left twitter back in 2020) but I never got around to doing it due to:</description>
+    </item>
+    
+  </channel>
+</rss>
