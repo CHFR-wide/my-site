@@ -1,0 +1,27 @@
+{{ define "main" }}  
+<section>  
+  <article class="w-4/5 max-w-xl m-auto">  
+    <div class="blog__container">  
+          <h1>{{ .Title }}</h1>  
+          <hr class="my-2">
+            <div class="blog__details">  
+              <div class="blog__info">  
+                <p class="text-gray-600">
+                    <time>
+                        {{ .PublishDate.Format "January 2, 2006" }}
+                    </time> |   
+                    {{ .ReadingTime }} 
+                    {{ if eq .ReadingTime 1 }} minute 
+                    {{ else }} minutes 
+                    {{ end }} 
+                    read  
+                 </p>  
+              </div>  
+            </div>  
+          <div class="post-content">  
+            {{ .Content }}  
+          </div>  
+        </div>  
+  </article>  
+</section>  
+{{ end }}  

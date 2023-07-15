@@ -34,16 +34,6 @@ I plan to turn this site into some sort of personal blog, posting about whatever
 - Programming (mostly how it can fit in the process of creation, not gonna bore you to death with another rambling about this site's templating solution)
 - Other stuff I like, I'm not too sure myself, but basically some stuff you'd see me post on social media, but in a longer, and hopefully more interesting, format
 
-## Who am I?
-
-I'm CHFR, my main presence online is through my Youtube channel where I make 音mads, I like to draw and am currently (2023-03-02) studying at a "generalist" tech school. I generally gravitate towards SoL anime, though I did broaden my horizons thanks to my friends.
-
-Focusing a bit more about 音mads, I've started doing them in 2017 at the beginning of my high-school years. There's been a noticeable decrease in uploads in recent years but my love for the medium is still strong, and I hope it continues to burn intensely.
-
-I've been using *Reaper* for audio, and *After Effects* for visuals, though I've switched to *Davinci Fusion* last year (developing a love and hate relationship similar to the one with AE almost instantly, but that's probably deserving of its own article).
-
-You can contact me on discord at **CH FR#4710**.
-
 ## My objectives with this site
 
 Honestly I'm just doing it to talk about stuff I want to talk about. If this can somehow positively affect the people reading it, or make them learn stuff, then that's good.
