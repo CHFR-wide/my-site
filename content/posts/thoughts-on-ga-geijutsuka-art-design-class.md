@@ -181,4 +181,6 @@ When I finished New Game! I didn't know if this genre had another manga in store
 
 When I finished Stella no Mahou, I didn't know if this genre had another manga in store that'd make me experience such feelings again, and then I found GA Geijutsuka Art Design Class.
 
-So I *will* keep reading manga "where literally nothing happens", I *will* read the convenience store and beach chapters, and I *will* enjoy reading dialog-packed 4-koma panels... because now that I finished GA Geijutsuka Art Design Class, I've decided to believe that Slice of Life as a genre *will* have another manga in store that *will* make me experience such feelings again.
+So I *will* keep reading manga "where literally nothing happens", I *will* look forward to the home-visit and beach chapters, and I *will* read dialog-packed 4-koma panels... because now that I finished GA Geijutsuka Art Design Class, I've decided to believe that Slice of Life as a genre *will* have another manga in store that *will* make me experience such feelings again.
+
+Thanks for making it this far. I hope you'll consider reading GA Geijutsuka Art Design Class.

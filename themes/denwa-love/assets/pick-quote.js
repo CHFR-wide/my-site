@@ -50,6 +50,7 @@ const quotes = [
     "[4] conclusion",
     "[5] darkness",
     ">He tried to copy the nico link but it changed the quote (lol)",
+    "You will download webp pictures and you will be happy",
 ]
 
 pickQuote()
