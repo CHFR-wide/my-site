@@ -134,7 +134,7 @@ However, the school festival eventually ends, as does the school year.
 
 ![This was fun](/~chfr/images/geijutsuka/this-was-fun.webp)
 
-As many school-life manga do, GA has a graduation arc, which is incidentally where the author chooses to end the story. That is, however, not withou tying up all of its loose ends with the final volume:
+As many school-life manga do, GA has a graduation arc, which is incidentally where the author chooses to end the story. That is, however, not without tying up all of its loose ends with the final volume:
 
 - Awara seizes the opportunity to study abroad in France (kino), following the footstep of the previous art club president whom she respects;
 - The ship between Awara and Uozumi sinks, and Sotoma sensei also grows more conscious of and Usami sensei after an image change;
