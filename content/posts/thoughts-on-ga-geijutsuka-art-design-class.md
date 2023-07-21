@@ -2,7 +2,7 @@
 title: "Thoughts on GA Geijutsuka Art Design Class"
 date: 2023-07-21T20:10:00+04:00
 draft: false
-thumbnail: "images/geijutsuka/thumbnail.webp"
+thumbnail: "/~chfr/images/geijutsuka/thumbnail.webp"
 ---
 
 On the night of June 30th 2023, I was browsing /a/, until I stumbled upon a particular thread, it was a "daily XXX chapter" thread about a series I'd never heard of before, titled "GA Geijutsuka Art Design Class".
@@ -36,7 +36,7 @@ But then, my mind started wandering on that second statement, which proved to be
 
 Despite the warning (reiterated in later volumes), it is still undeniable that you can learn a lot of general art knowledge from this manga. The author never hesitates to turn dialog into a surprise art lesson.
 
-![Professor's basic color theory course](images/geijutsuka/explanation.webp)
+![Professor's basic color theory course](/~chfr/images/geijutsuka/explanation.webp)
 
 While it could sound like this ruins the immersion, those technical bits do the opposite: art occupies a huge place in the girls' lives, the way it is explained feels natural and reads like classmates teaching each-other stuff. It really emphasizes the fact that they are *actively* learning art:
 
@@ -52,7 +52,7 @@ Part of me understood that having color is convenient when you want to explain s
 
 Eventually, I reached this page.
 
-![Colors and moods](images/geijutsuka/colors.webp)
+![Colors and moods](/~chfr/images/geijutsuka/colors.webp)
 
 That second panel (bottom right) stuck with me through the rest of my reading experience, and made me realize how "brown" this manga is.
 
@@ -66,15 +66,15 @@ The more I kept reading, the more I had that feeling of:
 
 "hm?"
 
-![First page cover](images/geijutsuka/hm1.webp)
+![First page cover](/~chfr/images/geijutsuka/hm1.webp)
 
 "hm?!"
 
-![First page cover](images/geijutsuka/hm2.webp)
+![First page cover](/~chfr/images/geijutsuka/hm2.webp)
 
 "hmmmm?!!!"
 
-![First page cover](images/geijutsuka/hm3.webp)
+![First page cover](/~chfr/images/geijutsuka/hm3.webp)
 
 This is not a feeling of "witnessing a life-changingly-beautiful picture", but more like "oh hey that's neat", a conscious acknowledgement, upon seeing a detail, that someone went the extra mile for the sake of quality.
 
@@ -82,9 +82,9 @@ This is not a feeling I'm unfamiliar with, after all, it's fairly common for art
 
 These chapter illustrations are, to me, a highlight of this manga: because it's an exploration of art, the author has full freedom on what she wants to draw in these spaces, and most often draws it with great care.
 
-The girls are picking a plaster bust, [how about we draw it from the bust's point of view](images/geijutsuka/pov.webp "_blank")?
+The girls are picking a plaster bust, [how about we draw it from the bust's point of view](/~chfr/images/geijutsuka/pov.webp "_blank")?
 
-The chapter is about model kits, so [let's draw a fully detailed one, with all its layers overlapping in great details](images/geijutsuka/model-kit.webp "_blank"). Why? Because it'll look really nice!
+The chapter is about model kits, so [let's draw a fully detailed one, with all its layers overlapping in great details](/~chfr/images/geijutsuka/model-kit.webp "_blank"). Why? Because it'll look really nice!
 
 Whenever a time period, or an artistic movement is described, you can be sure it'll be accompanied by a nice little illustration, imitating the style as well as possible.
 
@@ -122,7 +122,7 @@ However, in the penultimate volume, the reader's patience is rewarded: the art c
 
 During this short period, we get a glimpse of another world, one where both groups would've met earlier, had any of their previous close-call-encounters gone differently.
 
-![All together](images/geijutsuka/all-together.webp)
+![All together](/~chfr/images/geijutsuka/all-together.webp)
 
 However, the school festival eventually ends, as does the school year.
 
@@ -132,7 +132,7 @@ However, the school festival eventually ends, as does the school year.
 
 {{% spoiler id="spoiler-2" %}}
 
-![This was fun](images/geijutsuka/this-was-fun.webp)
+![This was fun](/~chfr/images/geijutsuka/this-was-fun.webp)
 
 As many school-life manga do, GA has a graduation arc, which is incidentally where the author chooses to end the story. That is, however, not withou tying up all of its loose ends with the final volume:
 
@@ -145,7 +145,7 @@ As many school-life manga do, GA has a graduation arc, which is incidentally whe
 
 The final chapters primarily star Kisaragi, finally, in her final and most powerful moment of character development: on Awara's graduation day, she asks to join the art club, effectively saving it from being shut down, and solving Awara's internal struggle to either let it die, or to find someone suitable to pass the baton to.
 
-![My answer](images/geijutsuka/my-answer.webp)
+![My answer](/~chfr/images/geijutsuka/my-answer.webp)
 
 As her friends naturally follow her in the art club, she then applies to become the club president (a position uncharacteristically assertive for her archetype, her teachers remark). The club, which was on the verge of disappearing less than one year ago, experiences a renaissance with the (now second years) main group.
 
@@ -153,11 +153,11 @@ And life, at GA Geijutsuka Art Design Class, will go on...
 
 Each person, on their separate way...
 
-![Their separate way](images/geijutsuka/their-separate-way.webp)
+![Their separate way](/~chfr/images/geijutsuka/their-separate-way.webp)
 
 But all of them...
 
-![Under the same sky](images/geijutsuka/under-the-same-sky.webp)
+![Under the same sky](/~chfr/images/geijutsuka/under-the-same-sky.webp)
 
 {{% /spoiler %}}
 
