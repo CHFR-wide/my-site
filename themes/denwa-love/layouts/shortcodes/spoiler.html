@@ -1,0 +1,26 @@
+<button 
+    id="{{.Get `id`}}-btn"
+    class="p-2 bg-slate-200 rounded-lg shadow-sm hover:bg-slate-100" onclick="toggleSpoiler(this, '{{.Get `id`}}')" >
+    Hide spoiler
+</button>
+<div id="{{.Get `id`}}">
+    {{.Inner}}
+</div>
+
+<script>
+    function toggleSpoiler(btn, targetId) {
+        const spoiler = document.getElementById(targetId);
+        if (spoiler.style.display === "none") {
+            spoiler.style.display = "block";
+            btn.innerText = "Hide spoiler"
+        } else {
+            spoiler.style.display = "none";
+            btn.innerText = "Show spoiler"
+        }
+    }
+
+    toggleSpoiler(
+        document.getElementById("{{.Get `id`}}-btn"),
+        "{{.Get `id`}}"
+    )
+</script>

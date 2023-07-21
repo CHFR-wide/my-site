@@ -114,7 +114,9 @@ I found these chapters very captivating, Kisaragi's journey made me want to root
 
 ## A long awaited reunion (heavy spoilers)
 
-One recurring theme of this manga, is how the author will tease her readers with the prospect of the first years meeting the art club. A good deal of chapters end with them almost coming in contact, or them briefly interacting without much more coming out of it.
+{{% spoiler id="spoiler-1" %}}
+
+One recurring theme of this manga is the author constantly teasing the idea of the first years meeting the art club. A good deal of chapters end with them almost coming in contact, or them briefly interacting without much more coming out of it.
 
 However, in the penultimate volume, the reader's patience is rewarded: the art club is in a pinch, understaffed for their art exhibition during the school festival, that is until the main group of first years (all members of the go-home club) are brought in to give a helping hand. 
 
@@ -124,11 +126,15 @@ During this short period, we get a glimpse of another world, one where both grou
 
 However, the school festival eventually ends, as does the school year.
 
+{{% /spoiler %}}
+
 ## Wrapping everything up (ultra heavy spoilers)
+
+{{% spoiler id="spoiler-2" %}}
 
 ![This was fun](images/geijutsuka/this-was-fun.webp)
 
-As many school-life mangas do, GA has a graduation arc, which is incidentally where the author chooses to end the story. That is, however, not withou tying up all of its loose ends with the final volume:
+As many school-life manga do, GA has a graduation arc, which is incidentally where the author chooses to end the story. That is, however, not withou tying up all of its loose ends with the final volume:
 
 - Awara seizes the opportunity to study abroad in France (kino), following the footstep of the previous art club president whom she respects;
 - The ship between Awara and Uozumi sinks, and Sotoma sensei also grows more conscious of and Usami sensei after an image change;
@@ -147,30 +153,32 @@ And life, at GA Geijutsuka Art Design Class, will go on...
 
 Each person, on their separate way...
 
+![Their separate way](images/geijutsuka/their-separate-way.webp)
+
 But all of them...
 
 ![Under the same sky](images/geijutsuka/under-the-same-sky.webp)
 
+{{% /spoiler %}}
+
 ## Conclusion
 
-At the beginning of this article, I wrote about being a SoL and 4koma enjoyer. While I have an undeniable bias toward this genre, I wouldn't have written all of this for just about any moe manga that I read.
+At the beginning of this article, I wrote about being a SoL and 4koma enjoyer. While I do have an undeniable bias toward this genre, I wouldn't have written all of this for just about any manga.
 
-Along with being an SoL, this manga has another characteristic that made it go from "I like this and want to talk about it with my friends" to "I love this and want to talk about it with the whole world": it's a manga about creative activities, which may be one of my favourite kinds of mangas.
+Along with being an SoL, this manga has another characteristic that made it go from "I like this and want to talk about it with my friends" to "I love this and want to talk about it with the whole world": it's a manga about creative activities, which may have become my favourite subgenre.
 
 It's hard for me to fully articulate how strongly I feel about this genre, I feel like saying that I really really really love it would sound both stupid and accurate.
 
 The process of creating something involves so many aspects of human relationships. You get to see the characters' personal struggles being explored, their drive to improve, how they deal with skill and talent discrepencies among the group, how their personality may shine through their work, how they collaborate and compromise in order to work together, how the competitive aspects of their work will sometimes put them at odds with each other, how they deal with the conflicting feelings of being happy for their friends' progress and jealous of it at the same time, how they may be afraid to be left behind, and how, despite all the joy, the passion, and the struggles that the path of creation brings, they do their best to stay united preserve their friendship. All of these emotions that you can feel whenever you're following the path of art with people whom you treasure, I deeply relate to them, and really, really, really love them.
 
-This is the reason why I read New Game! more than five times by now and will read it again.
+This is the reason why I read New Game! (a work-life kirara series) more than five times by now and will read it again.
 
-This is the reason why Stella no Mahou (another Kirara manga about making doujin games) was one of the best reading experience I've had in 2022, and something that I want to see fully translated.
+This is the reason why Stella no Mahou (another kirara manga about making doujin games) was one of the best reading experience I've had in 2022, and something that I want to see fully translated someday.
 
-This is why I wrote this article.
+This is the reason why I wrote this article.
 
-Because when I finished New Game! I didn't think this genre had another manga in store that would give me such strong feelings again, and then I found Stella no Mahou.
+When I finished New Game! I didn't know if this genre had another manga in store that'd make me experience such feelings again, and then I found Stella no Mahou.
 
-Because when I finished Stella no Mahou, I didn't think this genre had another manga in store that would give me such strong feelings again, and then I found GA Geijutsuka Art Design Class.
+When I finished Stella no Mahou, I didn't know if this genre had another manga in store that'd make me experience such feelings again, and then I found GA Geijutsuka Art Design Class.
 
-Because now that I finished GA Geijutsuka Art Design Class, I am ready to believe that in this genre, there will be another manga in store that will give me such strong feelings again.
-
-So, while I *do* read other genres than Slice of Life, **I will not stop enjoying mangas "where nothing happens". I will not stop reading mangas "where nothing happens", and I will not start shitting on mangas "where nothing happens". Because mangas "where nothing (except for human interactions) happens".**
+So I *will* keep reading manga "where literally nothing happens", I *will* read the convenience store and beach chapters, and I *will* enjoy reading dialog-packed 4-koma panels... because now that I finished GA Geijutsuka Art Design Class, I've decided to believe that Slice of Life as a genre *will* have another manga in store that *will* make me experience such feelings again.

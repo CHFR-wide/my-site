@@ -2,3 +2,8 @@ baseURL = 'https://mmaker.moe/~chfr'
 languageCode = 'en-us'
 title = "CHFR's blog"
 theme = 'denwa-love'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
