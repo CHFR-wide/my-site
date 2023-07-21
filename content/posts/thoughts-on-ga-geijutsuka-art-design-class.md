@@ -1,8 +1,8 @@
 ---
 title: "Thoughts on GA Geijutsuka Art Design Class"
-date: 2023-07-19T22:23:31+04:00
+date: 2023-07-21T20:10:00+04:00
 draft: false
-layout: 
+thumbnail: "images/geijutsuka/thumbnail.webp"
 ---
 
 On the night of June 30th 2023, I was browsing /a/, until I stumbled upon a particular thread, it was a "daily XXX chapter" thread about a series I'd never heard of before, titled "GA Geijutsuka Art Design Class".

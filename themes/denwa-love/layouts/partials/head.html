@@ -2,11 +2,11 @@
     <title>{{ .Title }}</title>
     <base href="{{ .Site.BaseURL }}">
     <!-- To remove when publishing -->
-    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- <script src="https://cdn.tailwindcss.com"></script> -->
 
     <link rel="icon" type="image/x-icon" href="favicon.ico">
     {{ $style := resources.Get "style.css" }}    
-    <!-- <link rel="stylesheet" href="{{ $style.Permalink }}">  -->
+    <link rel="stylesheet" href="{{ $style.Permalink }}"> 
     {{ $style := resources.Get "custom-style.css" }}    
     <link rel="stylesheet" href="{{ $style.Permalink }}"> 
 </head>
