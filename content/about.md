@@ -12,4 +12,4 @@ Focusing a bit more about 音mads, I've started doing them in 2017 at the beginn
 
 I've been using *Reaper* for audio, and *After Effects* for visuals, though I've switched to *Davinci Fusion* last year (developing a love and hate relationship similar to the one with AE almost instantly, but that's probably deserving of its own article).
 
-You can contact me on discord at **CH FR#4710**.
+You can contact me on discord at username: **chfr**.
