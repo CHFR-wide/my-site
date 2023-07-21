@@ -4,8 +4,6 @@ date: 2023-03-02T21:38:37+04:00
 draft: false
 ---
 
-## Introduction
-
 For maybe the last two years of so, I've always felt a bit bad that I've got this little parcel of server generously gifted to me, and yet haven't done anything with it. 
 
 The idea of making a personal blog has been on my mind for a long time (pretty much ever since I left twitter back in 2020) but I never got around to doing it due to:
