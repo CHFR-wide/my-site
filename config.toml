@@ -1,7 +1,7 @@
 baseURL = 'https://mmaker.moe/~chfr'
 languageCode = 'en-us'
 title = "CHFR's blog"
-theme = 'denwa-love'
+theme = ['hugo-video','denwa-love']
 
 [markup]
   [markup.goldmark]

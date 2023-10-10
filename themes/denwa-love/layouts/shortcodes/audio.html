@@ -1,0 +1,7 @@
+<div class="container">
+    <audio controls style="width: 80%; margin: 0 auto ; margin-bottom: 20px">
+        {{- $audio_src := .Get "src" -}}
+        {{ with .Page.Resources.GetMatch $audio_src }}<source src="{{ .RelPermalink }}" type="audio/mpeg">{{ end }}
+        Your browser does not support the audio element.
+    </audio>
+</div>
