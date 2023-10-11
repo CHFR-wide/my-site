@@ -1,27 +1,43 @@
 ---
 title: "Making a part for the Bocchi Collab"
 date: 2023-10-09T12:52:43+04:00
-draft: true
+draft: false
 thumbnail: "making-a-part-for-the-bocchi-collab.webp"
 ---
+
+At the end of 2022, I was finally able to finish all my ongoing collab projects. I was able to enjoy a rare state of comfort in knowing that I had no deadline in sight. So I made it a resolution to not join new collaborations for a while and focus more on personal videos.
+
+Right as the new year started, I recieved a private message from Krm.
 
 ![First invite](first-invite.webp)
 
 Pro tip: if you're planning to decline a collab invite, then DO NOT listen to the draft.
 
-But oh well... I already loved the Urusei Yatsura ED before getting the invite, I might as well do my best!
+Well... I do love Tokyo Shandy Rendez-vous, so I might as well do my best!
+
+This article will broadly describe the making of my part for Krm's Bocchi The Rock collaboration.
 
 # Scrapped ideas, the fleeting フル子 dream
 
 When starting this part, I initially planned to make it all about Furuko chan, and her trusty nurse acolyte.
 
-I imagined a scenario where they fail to bring people to their stand, and then decide to make a band after seeing a [completely random online concert](https://www.nicovideo.jp/watch/sm39971677).
+The first idea I had was to mimick what happened in episode 5, and instead of Kessoku Band, have Furuko chan be the one on stage. She would occasionally stop singing to ask the audience how she's doing, which would cause Yoyoko to badmouth her, upon hearing that, she'd get angry and start singing the chorus much more ardently.
+
+{{<audio src="frankfurt-attempt-1.mp3">}}
+
+I wasn't feeling it so I gave up on this idea.
+
+The second thing I imagined was a scenario where they fail to bring people to their stand, and then decide to make a band after seeing a [completely random online concert](https://www.nicovideo.jp/watch/sm39971677).
 
 ![Storyboard fail](storyboard-fail.webp)
 
-However I quickly realized that this would imply drawing pretty much the whole part. And I realized I didn't have the necessary skills to create the story from just a few samples audio-wise.
+However I quickly realized that this meant drawing the whole story visual-wise, and audio-wise, I realized I didn't have the necessary skills to create a compelling story that also sounded good.
 
-So those three drawings are pretty much the furthest I've went with that idea. Too bad!
+So the idea died off pretty quickly, I knew I had to give up when I started trying to insert unrelated songs (because I was unconfident in the fun-factor of the part).
+
+{{<audio src="despair-attempt.mp3">}}
+
+I'm sorry for failing you Furuko chan...
 
 # The audio
 
@@ -29,7 +45,7 @@ Ultimately, I decided to use my other favourite character: Hiroi.
 
 ## First half
 
-Part of what makes me love hiroi so much is the fact that, out of the whole cast, and despite herself, she is the one who actually gives Bocchi the most genuine words of encouragement. The street concert they do in episode 6 still is my favourite moment in the entire anime.
+Part of what makes me love Hiroi so much is the fact that, out of the whole cast, and despite herself, she is the one who actually gives Bocchi the most genuine words of encouragement. The street concert they do in episode 6 still is my favourite moment in the entire anime.
 
 It is worth noting that the tone in BTR can get pretty cynical, you'll quickly notice that most of the main adults are often depicted as dropouts, good-for-nothings, etc... And whenever they talk about their life prospects, it often looks very bleak. Because of that, I find those moments of encouragement/life advice very heartwarming.
 
@@ -49,7 +65,7 @@ While it's nice to have some emotional segments, I still wanted to have some fun
 
 I tried to make the disconnect between the two halves evident in the audio "なんちゃって [...] どうでもいいじゃん" and in the visuals (I'm not quoting what I wrote there). The idea behind this was "the heavier section is over, you can relax a bit now".
 
-My audio work is not the most interesting to dissect, so I don't think there's a lot to say about it. Well, I discover that using my tablet to draw the pitch in Vocalshifter was a viable thing to do, but aside from that, I didn't really pull any magic trick or anything.
+My audio work is not the most interesting to dissect, so I don't think there's a lot to say about it. Well, I discovered that using my tablet to draw the pitch in Vocalshifter was a viable thing to do, but aside from that, I didn't really pull any magic trick or anything.
 
 # The visuals
 
@@ -175,8 +191,24 @@ I didn't actually coordinate with AllColor for the end transition, he just took 
 
 # In conclusion
 
-This is also the first video that I did on Linux from start to end so that's nice too. I want to keep getting better at using fusion so that more people want to use it as well in their visuals.
+As I am still learning the ropes with Davinci Resolve and Fusion, each project comes with a big amount of knowledge gained. While my footing with the software is getting more and more stable, I have yet to reach the same amount of mastery I used to have with After Effects, which, in a way, is encouraging, as I also don't see a glass-ceiling yet.
 
-This was a nice and fun collab. I congratulate everyone who worked on it, and specially KRM for being able to deliver it on schedule. I also thank EdenGT for his work as a visual advisor, and whose input helped me to not get complacent when it came to the finishing touches.
+As stated earlier, I want to ramp up the scale of my scenes, not necessarily by making them more complex, but rather by pushing the sliders further, without limiting myself out of fear that the software might not follow.
 
-With that said, thank you for reading this far. I hope that I can keep making otomads in the future.
+In the end, this project still had a fair number of hand-drawn assets. In the future, I want to get more apt at using blender so that it becomes a viable choice if I "want something done quick in 3d space". I also believe that blender will cope better with big scenes compared to Fusion's 3d engine (even though it's also very apt).
+
+When it comes to the collab itself, it was a fun experience as usual. I congratulate Krm for being able to deliver it on time. I also thank EdenGT for his work as a visual adviser, since his feedback prevented me from getting complacent, particularly toward the end of the project.
+
+With that said, thank you for reading this far. Please enjoy some additional drafts to end this article.
+
+{{% spoiler id="spoiler-1" %}}
+
+![Hiroi draft](hiroi-draft1.webp)
+![Eroi draft](hiroi-draft2.webp)
+![Eroi draft](hiroi-silhouette.webp)
+
+With me in charge of this part, there wouldn't be a single idea that DOESN'T involve putting someone in Lum's bikini.
+
+![Furuko Oni](furuko-oni.webp)
+
+{{% /spoiler %}}
