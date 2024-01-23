@@ -167,7 +167,7 @@ We now have a nice field.
 
 (Now this certainly packs more punch!)
 
-> Notice the flowers sticking out? There seems to be imprecision that gets in some of the particles' position as I bend the 3d space. I haven't really figured out how to fix it... but oh well.
+> ~~Notice the flowers sticking out? There seems to be imprecision that gets in some of the particles' position as I bend the 3d space. I haven't really figured out how to fix it... but oh well.~~ UPDATE: turns out all I had to do to fix this was to click on a simple checkbox called "group objects" on the blend node! That's great to know for the future.
 
 ![Not as Huge](not-as-huge.webp)
 

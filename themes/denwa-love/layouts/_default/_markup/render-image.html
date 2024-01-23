@@ -1,0 +1,8 @@
+<p class="md__image">
+    <img src="{{ .Destination | safeURL }}" 
+    alt="{{ .Text }}"
+    {{ with replaceRE `.*x=(.*?);.*` "$1" .Title }} width="{{ . }}px" {{ end }}
+    />
+</p>
+  
+  

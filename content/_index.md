@@ -4,22 +4,10 @@ date: 2023-07-15T23:26:59+04:00
 draft: false
 ---
 
-### Welcome
+## Welcome
 
-Welcome to my blog. On here I will talk about various topics, ranging from MADmaking to programming, and maybe other stuff that comes to my mind. 
+This is my blog, there's not much to see on this front page so click on "posts" to see the actual content of this site.
 
-I'll probably extend the site's functionalities as I go, right now it's mostly just a space for blogs but eventually I may rewrite the "downloads" page from my old page, and add new links.
+## Acknowledgements
 
-### Changelog
-
-I like reading changelogs, hopefully you do too.
-
-- *v1.0.1 (2023-07-21)*
-  - Further css styling;
-  - Adds spoiler shortcode;
-  - Adds post thumbnails support.
-- *v1.0.1 (2023-07-16)* 
-  - Increased SOVL by removing the default theme and writing a new and worst one from scratch;
-  - Fixes favicon.ico, Yuidumb is back!
-- *v1.0.0 (2023-03-02)* 
-  - Rewrote the website in HUGO (check the [old-website](old) here).
+This website is hosted by [Mmaker](https://mmaker.moe), made using [Hugo](https://gohugo.io) and with the source available on [Github](https://github.com/CHFR-wide/my-site).

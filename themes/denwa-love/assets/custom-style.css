@@ -36,13 +36,14 @@ ul ul {
     margin-left: 1rem !important;
 }
 
-article a {
+p a {
     text-decoration: underline !important;
 }
 
 article p {
     margin: 0.8rem 0 !important;
     text-align: justify !important;
+    font-family: serif;
 }
 
 blockquote {
@@ -55,3 +56,7 @@ blockquote {
   blockquote p {
     display: inline;
   }
+
+img {
+    margin: auto;
+}
