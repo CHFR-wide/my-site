@@ -1,7 +1,7 @@
 baseURL = 'https://chfr.link'
 languageCode = 'en-us'
 title = "CHFR's blog"
-theme = ['hugo-video','denwa-love']
+theme = ['denwa-love']
 
 [markup]
   [markup.goldmark]

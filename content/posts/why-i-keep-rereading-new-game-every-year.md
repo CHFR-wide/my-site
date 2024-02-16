@@ -2,10 +2,10 @@
 title: "Why I keep rereading New Game! every year"
 date: 2024-01-22T15:43:00+04:00
 draft: false
-thumbnail: "why-i-keep-rereading-new-game-every-year/imgs/cover.webp"
+thumbnail: "/images/cover-new-game.webp"
 ---
 
-![french-people](imgs/french-people.webp "x=400;")
+![french-people](/images/french-people.webp "x=400;")
 
 I think some people have already seen the long-winded paragraphs I tend to write when it comes to New Game. 
 
@@ -41,7 +41,7 @@ The author goes for a more realistic style: While the characters' features are s
 
 I am particularly fond of how eyelashes are drawn.
 
-![eyelashes](imgs/eyelashes.webp "x=400;")
+![eyelashes](/images/eyelashes.webp "x=400;")
 
 ### Backgrounds 
 
@@ -49,7 +49,7 @@ A lot of thought is put in New Game's background. Most of the time, Shotaro real
 
 ### The art in the art
 
-![art-in-the-art](imgs/art-in-the-art.webp "x=250;")
+![art-in-the-art](/images/art-in-the-art.webp "x=250;")
 
 Because of Aoba's job, art plays a quintessential role in the story. The author needs emphasize each character's personality through their art, and also to make them improve over time.
 
@@ -57,7 +57,7 @@ When a character makes adjustments to their work, it needs to be subtle enough t
 
 For example in volume 9, Aoba has to challenge her usual cute style in order to meet Yun's vision.
 
-![art-revisions](imgs/art-revisions.webp)
+![art-revisions](/images/art-revisions.webp)
 
 Another way to sidestep this issue by making the roadblocks more about not knowing what direction to take. There are a few examples of this:
 
@@ -71,7 +71,7 @@ The idea of raw skills is not completely abandoned though, and is always discuss
 
 ## A work life manga about work
 
-![gaming-landscape-changes](imgs/gaming-landscape-changes.webp)
+![gaming-landscape-changes](/images/gaming-landscape-changes.webp)
 
 When making slice of life, the setting is sometimes an afterthought, an excuse to focus your story on a certain aga range, or dress characters in OL clothes(nice), and so on. 
 
@@ -83,7 +83,7 @@ The earlier section about backgrounds was laughably short, that's because most o
 
 I think New Game's backgrounds really help in defining the setting and the characters.
 
-![bg-characterization](imgs/bg-characterization.webp)
+![bg-characterization](/images/bg-characterization.webp)
 
 Very early on, the backgrounds are used as an effective characterization device. They wordlessly introduce Yun and Hajime's quirks to the reader, and to Aoba. The same can be said for Hifumi, whose austere undecorated desk matches her attitude in the beginning.
 
@@ -97,21 +97,21 @@ The desks also directly tie into another core aspects of work: experience.
 
 In volume 4, during the Key Art competition, Aoba finds herself completely overwhelmed when seeing Kou's submissions, and breaks down (in what is the first of many moments in the manga that sting my heart), when she gets comforted, we get an inconspicuous glimpse at Kou's desk:
 
-![bg-skill-level1](imgs/bg-skill-level1.webp)
+![bg-skill-level1](/images/bg-skill-level1.webp)
 
 That's when we notice the massive pile of paper, and key art poster of the previous FS title. After seeing that, we go back one page and sure enough:
 
-![bg-skill-level2](imgs/bg-skill-level2.webp)
+![bg-skill-level2](/images/bg-skill-level2.webp)
 
 The difference in experience is not only demonstrated by their submission for the contest, but also physically represented by their own desks. This is a harsh experience for aoba, but even then, the chapter still ends on a good note:
 
-![bg-skill-level3](imgs/bg-skill-level3.webp)
+![bg-skill-level3](/images/bg-skill-level3.webp)
 
 Even though she lost this time, Aoba's desk started looking just a bit more like Kou's.
 
 The setting is made all the more immersive for the reader when an entire chapter is dedicated to a seat change.
 
-![sitting-change](imgs/sitting-change.webp)
+![sitting-change](/images/sitting-change.webp)
 
 The seating arrangement matters because work efficiency matters; work efficiency matters because the work matters; the work matters because Eagle Jump matters; Eagle Jump matters because it's an integral part of New Game, it's where the girls live and learn and interact and thrive!
 
@@ -121,7 +121,7 @@ I think you can really tell a lot with a background, even in mundane settings. I
 
 {{% spoiler id="spoiler-1" %}}
 
-![chihaya-room](imgs/chihaya-room.gif)
+![chihaya-room](/images/chihaya-room.gif)
 
 (you should watch The Idolm@ster btw)
 
@@ -137,7 +137,7 @@ This section will be all about how this manga makes Eagle Jump feel like such an
 
 ### Drive... improvement...
 
-![drive](imgs/drive.webp)
+![drive](/images/drive.webp)
 
 There's always an appeal to driven characters, you love to see them enter a new world, learn the ropes, overcome setbacks, and strive in their new environment. 
 
@@ -145,13 +145,13 @@ Aoba, as a protagonist, fits the bill perfectly, the first thing we notice is he
 
 Throughout the story, we get to see Aoba assimilate in the company. We witness her growth firsthand as the manga calls back to previous situations, and shows how differently aoba handles them now. The things she goes through shape her as a person and develop her empathy.
 
-![aoba-empathy](imgs/aoba-ampathy.webp "x=400;")
+![aoba-empathy](/images/aoba-ampathy.webp "x=400;")
 
 While she does grow, Aoba is still Aoba, we're used and attached to her personality. After all, we've been watching her from the beginning...
 
 And then there's this scene:
 
-![the-aoba](imgs/the-aoba.webp "x=400;")
+![the-aoba](/images/the-aoba.webp "x=400;")
 
 It kinda comes out of left field... right? What I like so much about these panels is the feeling of "oh... yeah, yeah that's true", it does make sense after all: we've seen her do all that character design work, she did work on this game and the game did come out, and yet it still feels surprising.
 
@@ -169,13 +169,13 @@ I really like the handling of rivalry in New Game, mainly because it's something
 
 That said, New Game doesn't just explore competition from the side of the main runner ups. Chapter 81 in volume 8 focuses on Yun, and how she feels about being sidelined from the scorching, self-propelling rivalry that Aoba and Momiji have.
 
-![yun-alone](imgs/yunalone.webp "x=400;")
+![yun-alone](/images/yunalone.webp "x=400;")
 
 At the end of the day, she does lose, the manga doesn't deny differences in skills nor does it hand out wins out of pity. But despite that, it doesn't mean all her efforts were wasted, she eventually sees them pay off, not as one of Eagle Jump's Ace, but rather in a way that complements her own field of expertise.
 
 ### The programming team
 
-![programming-team](imgs/pg-team1.webp "x=400;")
+![programming-team](/images/pg-team1.webp "x=400;")
 
 It's arguably the second most represented team in the manga, and sure enough, I love it.
 
@@ -189,7 +189,7 @@ Let's talk a bit about Nenecchi.
 
 ### The programming team (and Nene)
 
-![programming-team](imgs/oh-yeah.webp "x=200;")
+![programming-team](/images/oh-yeah.webp "x=200;")
 
 Nenecchi is a great example of how much care Shotaro puts in developing his characters. She's first introduced as a whimsical friend of Aoba's, as a way to show her life outside of work. When she joins Eagle Jump as a part-time debugger, she helps give the development team more presence, as there's now an extra link between Aoba and them. After she learns Eagle Jump won't hire debuggers anymore, she picks up programming, and self-teaches her way through C++, with some mentoring from Umiko, she actually manages to create something, and develops a bigger interest for programming.
 
@@ -201,19 +201,19 @@ From this point onward, the programming team stops being just "the guys who code
 
 Nene's freshness to this field is once again used as a way to help with storytelling in the same way Aoba's did.
 
-![replaced](imgs/replaced.webp)
+![replaced](/images/replaced.webp)
 
 Umiko's work experience serves as a good catalyst for interesting, more detailed explanations. Her role as Nene's mentor provides the author with lots of opportunities to give the reader beginner-level rundowns of on-the-field programming work, but also of the human elements, which may differ from those in the art team.
 
 Overall, Nenecchi's addition to Eagle Jump helped give a bigger focus on the programming team, and the programming aspects of the manga in general. She's one of the supporting characters that goes through the most drastic life changes out of the whole cast, finding purpose in a job that she started on a whim. This makes me appreciate her a lot.
 
-![expectations](imgs/nenexpectations.webp "x=400;")
+![expectations](/images/nenexpectations.webp "x=400;")
 
 Thankfully she did not become a web developer.
 
 ## Volume 5
 
-![volume5](imgs/vol5.webp "x=400;")
+![volume5](/images/vol5.webp "x=400;")
 
 Volume 5... I think it's awesome. Volume 5 is a prequel to the regular story. It focuses on Aoba's school life. If it was up to me, I'd want a New Game feature-length movie about just this volume.
 
@@ -225,7 +225,7 @@ Shotaro does a good job at making a school-life manga, the atmosphere feels more
 
 The bulk of the art-talk revolves more around Hotaru, who, from her very introduction, starts off with a higher skill level than most characters in the series.
 
-![hotaru-is-mad](imgs/hotarun1.webp "x=400;")
+![hotaru-is-mad](/images/hotarun1.webp "x=400;")
 
 Hotaru is a great character. The author makes sure to mostly keep her away from the main cast (until it really matters), but the few times she's made to interact with someone, it always result in a very interesting dynamic due to her almost overwhelming skill. Kou's synergy with Hotaru ended up being my favorite for spoilery reasons.
 
@@ -235,7 +235,7 @@ All in all, volume 5 acts as a great prequel story for Aoba, contextualizing her
 
 It's very impressive how Shotaro makes sure to tie every loose end when finishing the story, everyone throughout the story had an opportunity for growth. The kind of growth characters experience is always directly linked to their careers: some improve in their area of expertise, some get promoted, some move to an entire new position altogether.
 
-![growth](imgs/growth.webp)
+![growth](/images/growth.webp)
 
 I initially planned to list the subtle (and less subtle) ways in which everyone grows, but I think experiencing it firsthand would really make the manga more enjoyable for you.
 
@@ -251,4 +251,4 @@ Please note that, while I spoiled many elements, there are still many more I hav
 
 So, if this has convinced you to start reading New Game, then by all means, please do! I, for one, will surely give it another read around the end of this year.
 
-![she-shows-up](imgs/she-shows-up.webp)
+![she-shows-up](/images/she-shows-up.webp)
