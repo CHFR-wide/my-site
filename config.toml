@@ -1,4 +1,4 @@
-baseURL = 'https://mmaker.moe/~chfr'
+baseURL = 'https://chfr.link'
 languageCode = 'en-us'
 title = "CHFR's blog"
 theme = ['hugo-video','denwa-love']
