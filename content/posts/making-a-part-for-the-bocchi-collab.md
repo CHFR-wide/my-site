@@ -163,7 +163,7 @@ We now have a nice field.
 
 (Not really, we can't really make a good scene out of it as it is, maybe with a more interesting angle?)
 
-![Nicer Field](nicer-field.webp)
+![Nicer Field](/images/nicer-field.webp)
 
 (Now this certainly packs more punch!)
 
