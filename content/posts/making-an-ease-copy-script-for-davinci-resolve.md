@@ -2,6 +2,7 @@
 title: "Making an Ease Copy Script for Davinci Resolve"
 date: 2024-06-19T12:49:00+04:00
 draft: false
+thumbnail: "/images/resolve-ease-copy/cover.webp"
 ---
 
 # Making an ease script for Davinci Resolve
@@ -48,7 +49,6 @@ draft: false
 {{% /spoiler %}}
 
 ## Intro
-
 Over the years, I switched my main videos-making software three times: I have used After Effects from 2017 to 2022, [Davinci Resolve](https://www.blackmagicdesign.com/fr/products/davinciresolve) from mid 2022 to late 2023, and finally switched to [Autograph](https://www.left-angle.com/?page=95), which I've been using ever since.
 
 In this article, we'll look at how it's like to write scripts for Davinci Resolve, and we'll use one of the script I wrote, an ease-copy script, as an example.
