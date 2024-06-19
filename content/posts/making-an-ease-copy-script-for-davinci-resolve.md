@@ -13,6 +13,7 @@ thumbnail: "/images/resolve-ease-copy/cover.webp"
 
 - [Making an ease script for Davinci Resolve](#making-an-ease-script-for-davinci-resolve)
   - [Table of contents](#table-of-contents)
+  - [DL link and instructions](#dl-link-and-instructions)
   - [Intro](#intro)
   - [Should you use Fusion to make visuals?](#should-you-use-fusion-to-make-visuals)
   - [Fusion and easing, why make an ease-copy script in the first place?](#fusion-and-easing-why-make-an-ease-copy-script-in-the-first-place)
@@ -48,8 +49,15 @@ thumbnail: "/images/resolve-ease-copy/cover.webp"
 
 {{% /spoiler %}}
 
+## DL link and instructions
+
+You may [download the script here](https://gist.github.com/CHFR-wide/2c1fa3596b4bc2d02b5c2759bc1dab96).
+
+Here is a video by PeeJ ENT on [how ton install and use the script](https://youtu.be/eko_P42otMU?si=jYC1r5IpM2RkPPRJ).
+
 ## Intro
-Over the years, I switched my main videos-making software three times: I have used After Effects from 2017 to 2022, [Davinci Resolve](https://www.blackmagicdesign.com/fr/products/davinciresolve) from mid 2022 to late 2023, and finally switched to [Autograph](https://www.left-angle.com/?page=95), which I've been using ever since.
+
+Over the years, I switched my software for making visuals three times: I have used After Effects from 2017 to 2022, [Davinci Resolve](https://www.blackmagicdesign.com/fr/products/davinciresolve) from mid 2022 to late 2023, and finally switched to [Autograph](https://www.left-angle.com/?page=95), which I've been using ever since.
 
 In this article, we'll look at how it's like to write scripts for Davinci Resolve, and we'll use one of the script I wrote, an ease-copy script, as an example.
 
