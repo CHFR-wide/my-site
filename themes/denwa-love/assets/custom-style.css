@@ -40,6 +40,10 @@ p a {
     text-decoration: underline !important;
 }
 
+ul a {
+    text-decoration: underline !important;
+}
+
 article p {
     margin: 0.8rem 0 !important;
     text-align: justify !important;
@@ -59,4 +63,9 @@ blockquote {
 
 img {
     margin: auto;
+}
+
+pre {
+    padding: 1rem;
+    overflow: scroll;
 }
