@@ -3,6 +3,4 @@
 {{ if or (strings.HasPrefix .Destination "http" ) (strings.HasPrefix .Title "_blank" ) }}
     target="_blank" 
     rel="noopener"
-{{ end }}>
-    {{ .Text | safeHTML }}
-</a>
+{{ end }}>{{ .Text | safeHTML }}</a>
