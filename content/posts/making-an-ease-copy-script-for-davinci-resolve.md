@@ -53,7 +53,7 @@ thumbnail: "/images/resolve-ease-copy/cover.webp"
 
 You may [download the script here](https://gist.github.com/CHFR-wide/2c1fa3596b4bc2d02b5c2759bc1dab96).
 
-Here is a video by PeeJ ENT on [how ton install and use the script](https://youtu.be/eko_P42otMU?si=jYC1r5IpM2RkPPRJ).
+Here is a video by PeeJ ENT on [how to install and use the script](https://youtu.be/eko_P42otMU?si=jYC1r5IpM2RkPPRJ).
 
 ## Intro
 
